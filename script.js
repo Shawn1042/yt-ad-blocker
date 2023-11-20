@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Advanced YouTube Ad Skipper
+// @name         youtube Ad Skipper
 // @namespace    youtube-ad-skipper
 // @version      2.0
-// @description   skips YouTube ads when in DOM Tree
+// @description   skips YouTube ads when skip ad btn pops up in DOM Tree
 // @author       Shawn
 // @match        *://www.youtube.com/*
 // @grant        none
