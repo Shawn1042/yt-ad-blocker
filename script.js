@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         youtube Ad Skipper
 // @namespace    youtube-ad-skipper
-<<<<<<< HEAD
+
 // @version      2.1
 // @description  Skips YouTube ads automatically when they appear in the DOM.
-=======
+
 // @version      2.0
 // @description   skips YouTube ads when skip ad btn pops up in DOM Tree
->>>>>>> 8d31e450b8b50563ef2643d7b529f228ad5497da
 // @author       Shawn
 // @match        *://www.youtube.com/*
 // @grant        none
@@ -70,3 +69,13 @@
 
     new YouTubeAdSkipper();
 })();
+
+// /* 
+// Instructions for use in Tampermonkey:
+// 1. Click the Tampermonkey extension icon in your browser.
+// 2. Choose "Create a new script...".
+// 3. Delete any content that might be pre-populated in the new script template.
+// 4. Copy and paste the entire block of code above into the script editor.
+// 5. Save the script by clicking File -> Save or by pressing Ctrl+S or Cmd+S.
+// 6. Navigate to www.youtube.com to see the script in action. The script will automatically attempt to click the 'Skip Ad' button on YouTube ads.
+// */
